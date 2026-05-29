@@ -1,0 +1,6 @@
+{
+  "name": "Catalaxia Analytics",
+  "description": "Plataforma de gestión de procesos y análisis financiero para CEDEARs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
