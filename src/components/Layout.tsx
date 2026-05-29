@@ -20,7 +20,7 @@ export function Layout({ children, currentView, onNavigate }: LayoutProps) {
           icon={currentView === 'procesos' ? 'settings' : 'chart'} 
         />
         
-        <main className="flex-1 overflow-x-hidden overflow-y-auto bg-main-bg relative z-0">
+        <main className="flex-1 overflow-x-hidden overflow-y-auto bg-main-bg">
           {children}
         </main>
       </div>

@@ -116,13 +116,6 @@ export function TickerDrawer({ ticker, onClose }: DrawerProps) {
             </section>
           </div>
         </div>
-
-        {/* Action Footer */}
-        <div className="p-6 border-t border-border-subtle bg-white mt-auto shrink-0 z-20">
-          <button className="w-full py-3 bg-primary text-white rounded-lg font-semibold hover:opacity-90 transition-opacity shadow-sm">
-            Añadir a Portafolio
-          </button>
-        </div>
       </div>
     </div>
   );
